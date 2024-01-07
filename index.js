@@ -1,7 +1,7 @@
 /** @format */
 
 function message() {
-  const message = "happy birthday sadra",
+  const message = "happy birthday Amir",
     messageText = document.querySelectorAll(".message__text"),
     messageSplit = message.split(""),
     messageContainer = document.querySelector(".message"),
