@@ -59,9 +59,7 @@ message();
 
 /* ---- particles.js config ---- */
 function play() {
-  var audio = new Audio(
-    "https://dl2.iran-music.net/dl-New/mp3/97/03/andy-tavalodet-mobarak.mp3"
-  );
+  var audio = new Audio("A.mp3");
   audio.play();
 }
 particlesJS("particles-js", {
